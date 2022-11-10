@@ -1,0 +1,6 @@
+tamu_d3m
+tamu_axolotl
+matplotlib
+mmcv
+imgaug
+imagecorruptions
